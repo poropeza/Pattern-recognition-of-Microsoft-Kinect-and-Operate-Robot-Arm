@@ -1,0 +1,117 @@
+C:\Users\Edgar\Desktop\SkeletonBasics-WPF\bin\Debug\SkeletonBasics-WPF.exe
+C:\Users\Edgar\Desktop\SkeletonBasics-WPF\bin\Debug\SkeletonBasics-WPF.pdb
+C:\Users\Edgar\Desktop\SkeletonBasics-WPF\bin\Debug\Microsoft.Kinect.dll
+C:\Users\Edgar\Desktop\SkeletonBasics-WPF\bin\Debug\Microsoft.Kinect.xml
+C:\Users\Edgar\Desktop\SkeletonBasics-WPF\obj\Debug\MainWindow.baml
+C:\Users\Edgar\Desktop\SkeletonBasics-WPF\obj\Debug\MainWindow.g.cs
+C:\Users\Edgar\Desktop\SkeletonBasics-WPF\obj\Debug\App.g.cs
+C:\Users\Edgar\Desktop\SkeletonBasics-WPF\obj\Debug\SkeletonBasics-WPF_MarkupCompile.cache
+C:\Users\Edgar\Desktop\SkeletonBasics-WPF\obj\Debug\SkeletonBasics-WPF.g.resources
+C:\Users\Edgar\Desktop\SkeletonBasics-WPF\obj\Debug\Microsoft.Samples.Kinect.SkeletonBasics.Properties.Resources.resources
+C:\Users\Edgar\Desktop\SkeletonBasics-WPF\obj\Debug\SkeletonBasics-WPF.csproj.GenerateResource.Cache
+C:\Users\Edgar\Desktop\SkeletonBasics-WPF\obj\Debug\SkeletonBasics-WPF.exe
+C:\Users\Edgar\Desktop\SkeletonBasics-WPF\obj\Debug\SkeletonBasics-WPF.pdb
+C:\Users\Edgar\Desktop\SkeletonBasics-WPF\obj\Debug\login.g.cs
+C:\Users\Edgar\Desktop\SkeletonBasics-WPF\obj\Debug\SkeletonBasics-WPF_MarkupCompile.lref
+C:\Users\Edgar\Desktop\SkeletonBasics-WPF\obj\Debug\login.baml
+C:\Users\Edgar\Desktop\SkeletonBasics-WPF\obj\Debug\SkeletonBasics-WPF.csprojResolveAssemblyReference.cache
+C:\Users\Edgar\Desktop\SkeletonBasics-WPF\bin\Debug\MySql.Data.dll
+E:\SkeletonBasics-WPF\obj\Debug\SkeletonBasics-WPF.exe
+E:\SkeletonBasics-WPF\obj\Debug\SkeletonBasics-WPF.pdb
+E:\SkeletonBasics-WPF\obj\Debug\SkeletonBasics-WPF.csprojResolveAssemblyReference.cache
+E:\SkeletonBasics-WPF\obj\Debug\MainWindow.baml
+E:\SkeletonBasics-WPF\obj\Debug\login.g.cs
+E:\SkeletonBasics-WPF\obj\Debug\MainWindow.g.cs
+E:\SkeletonBasics-WPF\obj\Debug\App.g.cs
+E:\SkeletonBasics-WPF\obj\Debug\SkeletonBasics-WPF_MarkupCompile.cache
+E:\SkeletonBasics-WPF\obj\Debug\SkeletonBasics-WPF_MarkupCompile.lref
+E:\SkeletonBasics-WPF\bin\Debug\SkeletonBasics-WPF.exe
+E:\SkeletonBasics-WPF\bin\Debug\SkeletonBasics-WPF.pdb
+E:\SkeletonBasics-WPF\bin\Debug\Microsoft.Kinect.dll
+E:\SkeletonBasics-WPF\bin\Debug\Microsoft.Kinect.xml
+E:\SkeletonBasics-WPF\obj\Debug\login.baml
+E:\SkeletonBasics-WPF\obj\Debug\SkeletonBasics-WPF.g.resources
+E:\SkeletonBasics-WPF\obj\Debug\Microsoft.Samples.Kinect.SkeletonBasics.Properties.Resources.resources
+E:\SkeletonBasics-WPF\obj\Debug\SkeletonBasics-WPF.csproj.GenerateResource.Cache
+C:\Users\Peter Oropeza\Desktop\SkeletonBasics-WPF\bin\Debug\SkeletonBasics-WPF.exe
+C:\Users\Peter Oropeza\Desktop\SkeletonBasics-WPF\bin\Debug\SkeletonBasics-WPF.pdb
+C:\Users\Peter Oropeza\Desktop\SkeletonBasics-WPF\bin\Debug\Microsoft.Kinect.dll
+C:\Users\Peter Oropeza\Desktop\SkeletonBasics-WPF\bin\Debug\MySql.Data.dll
+C:\Users\Peter Oropeza\Desktop\SkeletonBasics-WPF\bin\Debug\Microsoft.Kinect.xml
+C:\Users\Peter Oropeza\Desktop\SkeletonBasics-WPF\obj\Debug\MainWindow.baml
+C:\Users\Peter Oropeza\Desktop\SkeletonBasics-WPF\obj\Debug\login.g.cs
+C:\Users\Peter Oropeza\Desktop\SkeletonBasics-WPF\obj\Debug\MainWindow.g.cs
+C:\Users\Peter Oropeza\Desktop\SkeletonBasics-WPF\obj\Debug\App.g.cs
+C:\Users\Peter Oropeza\Desktop\SkeletonBasics-WPF\obj\Debug\SkeletonBasics-WPF_MarkupCompile.cache
+C:\Users\Peter Oropeza\Desktop\SkeletonBasics-WPF\obj\Debug\SkeletonBasics-WPF_MarkupCompile.lref
+C:\Users\Peter Oropeza\Desktop\SkeletonBasics-WPF\obj\Debug\login.baml
+C:\Users\Peter Oropeza\Desktop\SkeletonBasics-WPF\obj\Debug\SkeletonBasics-WPF.g.resources
+C:\Users\Peter Oropeza\Desktop\SkeletonBasics-WPF\obj\Debug\Microsoft.Samples.Kinect.SkeletonBasics.Properties.Resources.resources
+C:\Users\Peter Oropeza\Desktop\SkeletonBasics-WPF\obj\Debug\SkeletonBasics-WPF.csproj.GenerateResource.Cache
+C:\Users\Peter Oropeza\Desktop\SkeletonBasics-WPF\obj\Debug\SkeletonBasics-WPF.exe
+C:\Users\Peter Oropeza\Desktop\SkeletonBasics-WPF\obj\Debug\SkeletonBasics-WPF.pdb
+C:\Users\Peter Oropeza\Desktop\SkeletonBasics-WPF\obj\Debug\SkeletonBasics-WPF.csprojResolveAssemblyReference.cache
+C:\Users\Peter Oropeza\Desktop\SkeletonBasics-WPF\bin\Debug\NxtNet.DesktopLib.dll
+C:\Users\Peter Oropeza\Desktop\SkeletonBasics-WPF\bin\Debug\NxtNet.DesktopLib.xml
+C:\Users\Edgar\Desktop\Versiones estancia\Version 3 (Cuadrantes)\obj\Debug\SkeletonBasics-WPF.exe
+C:\Users\Edgar\Desktop\Versiones estancia\Version 3 (Cuadrantes)\obj\Debug\SkeletonBasics-WPF.pdb
+C:\Users\Edgar\Desktop\Versiones estancia\Version 3 (Cuadrantes)\bin\Debug\SkeletonBasics-WPF.exe
+C:\Users\Edgar\Desktop\Versiones estancia\Version 3 (Cuadrantes)\bin\Debug\SkeletonBasics-WPF.pdb
+C:\Users\Edgar\Desktop\Versiones estancia\Version 3 (Cuadrantes)\bin\Debug\Microsoft.Kinect.dll
+C:\Users\Edgar\Desktop\Versiones estancia\Version 3 (Cuadrantes)\bin\Debug\MySql.Data.dll
+C:\Users\Edgar\Desktop\Versiones estancia\Version 3 (Cuadrantes)\bin\Debug\Microsoft.Kinect.xml
+C:\Users\Edgar\Desktop\Versiones estancia\Version 3 (Cuadrantes)\bin\Debug\NxtNet.DesktopLib.xml
+C:\Users\Edgar\Desktop\Versiones estancia\Version 3 (Cuadrantes)\obj\Debug\SkeletonBasics-WPF.csprojResolveAssemblyReference.cache
+C:\Users\Edgar\Desktop\Versiones estancia\Version 3 (Cuadrantes)\obj\Debug\MainWindow.baml
+C:\Users\Edgar\Desktop\Versiones estancia\Version 3 (Cuadrantes)\obj\Debug\login.g.cs
+C:\Users\Edgar\Desktop\Versiones estancia\Version 3 (Cuadrantes)\obj\Debug\MainWindow.g.cs
+C:\Users\Edgar\Desktop\Versiones estancia\Version 3 (Cuadrantes)\obj\Debug\App.g.cs
+C:\Users\Edgar\Desktop\Versiones estancia\Version 3 (Cuadrantes)\obj\Debug\SkeletonBasics-WPF_MarkupCompile.cache
+C:\Users\Edgar\Desktop\Versiones estancia\Version 3 (Cuadrantes)\obj\Debug\SkeletonBasics-WPF_MarkupCompile.lref
+C:\Users\Edgar\Desktop\Versiones estancia\Version 3 (Cuadrantes)\obj\Debug\login.baml
+C:\Users\Edgar\Desktop\Versiones estancia\Version 3 (Cuadrantes)\obj\Debug\SkeletonBasics-WPF.g.resources
+C:\Users\Edgar\Desktop\Versiones estancia\Version 3 (Cuadrantes)\obj\Debug\Microsoft.Samples.Kinect.SkeletonBasics.Properties.Resources.resources
+C:\Users\Edgar\Desktop\Versiones estancia\Version 3 (Cuadrantes)\obj\Debug\SkeletonBasics-WPF.csproj.GenerateResource.Cache
+C:\Users\Edgar\Desktop\Versiones estancia\Version 4 (Login admin empleado)\obj\Debug\SkeletonBasics-WPF.exe
+C:\Users\Edgar\Desktop\Versiones estancia\Version 4 (Login admin empleado)\obj\Debug\SkeletonBasics-WPF.pdb
+C:\Users\Edgar\Desktop\Versiones estancia\Version 4 (Login admin empleado)\bin\Debug\SkeletonBasics-WPF.exe
+C:\Users\Edgar\Desktop\Versiones estancia\Version 4 (Login admin empleado)\bin\Debug\SkeletonBasics-WPF.pdb
+C:\Users\Edgar\Desktop\Versiones estancia\Version 4 (Login admin empleado)\bin\Debug\Microsoft.Kinect.dll
+C:\Users\Edgar\Desktop\Versiones estancia\Version 4 (Login admin empleado)\bin\Debug\MySql.Data.dll
+C:\Users\Edgar\Desktop\Versiones estancia\Version 4 (Login admin empleado)\bin\Debug\Microsoft.Kinect.xml
+C:\Users\Edgar\Desktop\Versiones estancia\Version 4 (Login admin empleado)\bin\Debug\NxtNet.DesktopLib.xml
+C:\Users\Edgar\Desktop\Versiones estancia\Version 4 (Login admin empleado)\obj\Debug\SkeletonBasics-WPF.csprojResolveAssemblyReference.cache
+C:\Users\Edgar\Desktop\Versiones estancia\Version 4 (Login admin empleado)\obj\Debug\MainWindow.baml
+C:\Users\Edgar\Desktop\Versiones estancia\Version 4 (Login admin empleado)\obj\Debug\login.g.cs
+C:\Users\Edgar\Desktop\Versiones estancia\Version 4 (Login admin empleado)\obj\Debug\MainWindow.g.cs
+C:\Users\Edgar\Desktop\Versiones estancia\Version 4 (Login admin empleado)\obj\Debug\App.g.cs
+C:\Users\Edgar\Desktop\Versiones estancia\Version 4 (Login admin empleado)\obj\Debug\SkeletonBasics-WPF_MarkupCompile.cache
+C:\Users\Edgar\Desktop\Versiones estancia\Version 4 (Login admin empleado)\obj\Debug\SkeletonBasics-WPF_MarkupCompile.lref
+C:\Users\Edgar\Desktop\Versiones estancia\Version 4 (Login admin empleado)\obj\Debug\login.baml
+C:\Users\Edgar\Desktop\Versiones estancia\Version 4 (Login admin empleado)\obj\Debug\SkeletonBasics-WPF.g.resources
+C:\Users\Edgar\Desktop\Versiones estancia\Version 4 (Login admin empleado)\obj\Debug\Microsoft.Samples.Kinect.SkeletonBasics.Properties.Resources.resources
+C:\Users\Edgar\Desktop\Versiones estancia\Version 4 (Login admin empleado)\obj\Debug\SkeletonBasics-WPF.csproj.GenerateResource.Cache
+C:\Users\Edgar\Desktop\Versiones estancia\Version 4 (Login admin empleado)\obj\Debug\Admin.g.cs
+C:\Users\Edgar\Desktop\Versiones estancia\Version 4 (Login admin empleado)\obj\Debug\Admin.baml
+C:\Users\Peter Oropeza\Desktop\SOIS\obj\Debug\SkeletonBasics-WPF.exe
+C:\Users\Peter Oropeza\Desktop\SOIS\obj\Debug\SkeletonBasics-WPF.pdb
+C:\Users\Peter Oropeza\Desktop\SOIS\bin\Debug\SkeletonBasics-WPF.exe
+C:\Users\Peter Oropeza\Desktop\SOIS\bin\Debug\SkeletonBasics-WPF.pdb
+C:\Users\Peter Oropeza\Desktop\SOIS\bin\Debug\Microsoft.Kinect.dll
+C:\Users\Peter Oropeza\Desktop\SOIS\bin\Debug\MySql.Data.dll
+C:\Users\Peter Oropeza\Desktop\SOIS\bin\Debug\NxtNet.DesktopLib.dll
+C:\Users\Peter Oropeza\Desktop\SOIS\bin\Debug\Microsoft.Kinect.xml
+C:\Users\Peter Oropeza\Desktop\SOIS\bin\Debug\NxtNet.DesktopLib.xml
+C:\Users\Peter Oropeza\Desktop\SOIS\obj\Debug\SkeletonBasics-WPF.csprojResolveAssemblyReference.cache
+C:\Users\Peter Oropeza\Desktop\SOIS\obj\Debug\MainWindow.baml
+C:\Users\Peter Oropeza\Desktop\SOIS\obj\Debug\Admin.g.cs
+C:\Users\Peter Oropeza\Desktop\SOIS\obj\Debug\login.g.cs
+C:\Users\Peter Oropeza\Desktop\SOIS\obj\Debug\MainWindow.g.cs
+C:\Users\Peter Oropeza\Desktop\SOIS\obj\Debug\App.g.cs
+C:\Users\Peter Oropeza\Desktop\SOIS\obj\Debug\SkeletonBasics-WPF_MarkupCompile.cache
+C:\Users\Peter Oropeza\Desktop\SOIS\obj\Debug\SkeletonBasics-WPF_MarkupCompile.lref
+C:\Users\Peter Oropeza\Desktop\SOIS\obj\Debug\Admin.baml
+C:\Users\Peter Oropeza\Desktop\SOIS\obj\Debug\login.baml
+C:\Users\Peter Oropeza\Desktop\SOIS\obj\Debug\SkeletonBasics-WPF.g.resources
+C:\Users\Peter Oropeza\Desktop\SOIS\obj\Debug\Microsoft.Samples.Kinect.SkeletonBasics.Properties.Resources.resources
+C:\Users\Peter Oropeza\Desktop\SOIS\obj\Debug\SkeletonBasics-WPF.csproj.GenerateResource.Cache
